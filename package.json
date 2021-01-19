@@ -1,0 +1,19 @@
+{
+  "name": "btc-cash-shared",
+  "version": "1.0.0",
+  "description": "shared stuff for front-end & back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkucmierz/btc-cash-shared.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkucmierz/btc-cash-shared/issues"
+  },
+  "homepage": "https://github.com/gkucmierz/btc-cash-shared#readme"
+}

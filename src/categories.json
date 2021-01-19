@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "code": "GLD_SIL",
+      "title": "Gold & Silver"
+    },
+    {
+      "id": 1,
+      "code": "CRYPTO",
+      "title": "Bitcoin & Cryptocurrencies"
+    },
+    {
+      "id": 2,
+      "code": "OTHER",
+      "title": "Other Assets"
+    }
+  ],
+  "subcategories": [
+    { "cat_id": 0, "id": 100, "title": "Krugerrand Gold Coin - 1 oz" },
+    { "cat_id": 0, "id": 101, "title": "Maple Leaf Gold Coin - 1 oz" },
+    { "cat_id": 0, "id": 102, "title": "Australian Kangaroo Gold Coin - 1 oz" },
+    { "cat_id": 0, "id": 103, "title": "Krugerrand Gold Coin - 1 oz" },
+    { "cat_id": 0, "id": 104, "title": "Vienna Philharmonic Gold Coin - 1 oz" },
+
+    { "cat_id": 0, "id": 200, "title": "Krugerrand Silver Coin - 1 oz" },
+    { "cat_id": 0, "id": 201, "title": "Maple Leaf Silver Coin - 1 oz" },
+    { "cat_id": 0, "id": 202, "title": "Australian Kangaroo Silver Coin - 1 oz" },
+    { "cat_id": 0, "id": 203, "title": "Krugerrand Silver Coin - 1 oz" },
+    { "cat_id": 0, "id": 204, "title": "Vienna Philharmonic Silver Coin - 1 oz" },
+
+    { "cat_id": 1, "id": 10000, "code": "USDT", "title": "Tether" },
+    { "cat_id": 1, "id": 10001, "code": "DAI", "title": "Dai" },
+    { "cat_id": 1, "id": 10002, "code": "USDC", "title": "USD Coin" },
+
+    { "cat_id": 1, "id": 20000, "code": "BTC", "title": "Bitcoin" },
+    { "cat_id": 1, "id": 20001, "code": "ETH", "title": "Ethereum" },
+    { "cat_id": 1, "id": 20002, "code": "ETC", "title": "Ethereum Classic" },
+    { "cat_id": 1, "id": 20003, "code": "XRP", "title": "Ripple" },
+    { "cat_id": 1, "id": 20004, "code": "LTC", "title": "Litecoin" },
+    { "cat_id": 1, "id": 20005, "code": "XMR", "title": "Monero" },
+    { "cat_id": 1, "id": 20006, "code": "DOGE", "title": "Dogecoin" },
+    { "cat_id": 1, "id": 20007, "code": "ZEC", "title": "Zcash" },
+
+    { "cat_id": 2, "id": 50000, "title": "Other" },
+  ]
+}
