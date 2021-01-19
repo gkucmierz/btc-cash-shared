@@ -42,6 +42,6 @@
     { "cat_id": 1, "id": 20006, "code": "DOGE", "title": "Dogecoin" },
     { "cat_id": 1, "id": 20007, "code": "ZEC", "title": "Zcash" },
 
-    { "cat_id": 2, "id": 50000, "title": "Other" },
+    { "cat_id": 2, "id": 50000, "title": "Other" }
   ]
 }
