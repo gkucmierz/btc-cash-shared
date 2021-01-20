@@ -17,6 +17,8 @@
     }
   ],
   "subcategories": [
+    { "cat_id": 0, "id": 0, "title": "Other" },
+
     { "cat_id": 0, "id": 100, "title": "Krugerrand Gold Coin - 1 oz" },
     { "cat_id": 0, "id": 101, "title": "Maple Leaf Gold Coin - 1 oz" },
     { "cat_id": 0, "id": 102, "title": "Australian Kangaroo Gold Coin - 1 oz" },
@@ -29,9 +31,11 @@
     { "cat_id": 0, "id": 203, "title": "Krugerrand Silver Coin - 1 oz" },
     { "cat_id": 0, "id": 204, "title": "Vienna Philharmonic Silver Coin - 1 oz" },
 
-    { "cat_id": 1, "id": 10000, "code": "USDT", "title": "Tether" },
-    { "cat_id": 1, "id": 10001, "code": "DAI", "title": "Dai" },
-    { "cat_id": 1, "id": 10002, "code": "USDC", "title": "USD Coin" },
+    { "cat_id": 1, "id": 10000, "code": "", "title": "Other" },
+
+    { "cat_id": 1, "id": 11000, "code": "USDT", "title": "Tether" },
+    { "cat_id": 1, "id": 11001, "code": "DAI", "title": "Dai" },
+    { "cat_id": 1, "id": 11002, "code": "USDC", "title": "USD Coin" },
 
     { "cat_id": 1, "id": 20000, "code": "BTC", "title": "Bitcoin" },
     { "cat_id": 1, "id": 20001, "code": "ETH", "title": "Ethereum" },
