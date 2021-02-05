@@ -1,6 +1,6 @@
 {
   "name": "btc-cash-shared",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "shared stuff for front-end & back-end",
   "main": "index.js",
   "scripts": {
