@@ -1,0 +1,15 @@
+{
+  "contacts": [
+    { "type": "phone_number" },
+    { "type": "email" },
+    { "type": "messanger" },
+    { "type": "whatsapp" },
+    { "type": "telegram" },
+    { "type": "signal" },
+    { "type": "wire" },
+    { "type": "wickr_me" },
+    { "type": "keybase" },
+    { "type": "element" },
+    { "type": "viber" }
+  ]
+}
